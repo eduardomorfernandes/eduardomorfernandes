@@ -26,18 +26,6 @@ Data Engineering • Research-to-Production Workflows
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Backend API (FastAPI)
-A clean and minimal backend service demonstrating structure, endpoints, and best practices.  
-➡️ *[[repository link goes here](https://github.com/eduardomorfernandes/backend-api)]*
-
-### 🔹 CI/CD Demo (GitHub Actions)
-Minimal CI pipeline with automated tests and modern tooling.  
-➡️ *[[repository link goes here](https://github.com/eduardomorfernandes/cicd-demo)]*
-
----
-
 ## 📘 Research, Publications & Awards
 - PhD in Computer Science (PUC-Rio)  
 - Postdoctoral Research at **USP**, **UFMG**, **Queen's University**  
