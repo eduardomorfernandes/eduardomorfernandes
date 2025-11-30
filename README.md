@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo Fernandes 👋  
+# Hi, I'm Eduardo Fernandes!
 ### Tech Lead • Software Engineer • PhD in Computer Science
 
 I build reliable, maintainable, and scalable software systems.  
@@ -47,9 +47,5 @@ I often work on the intersection of **software engineering, automation, and mach
 
 ## 📫 Contact
 📧 **emfernandes@acm.org**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/emf-softw-eng  
-🐙 **GitHub:** https://github.com/eduardomorfernandes  
-
----
-
-💡 *I advocate for reliable software, clean codebases, and good engineering culture.*
+🔗 **LinkedIn:** https://www.linkedin.com/in/eduardomoreirafernandes
+🐙 **GitHub:** https://github.com/eduardomorfernandes
